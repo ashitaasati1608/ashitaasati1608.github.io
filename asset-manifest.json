@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5151b896.chunk.css",
+    "main.js": "/static/js/main.b05ca4a9.chunk.js",
+    "main.js.map": "/static/js/main.b05ca4a9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3b151f16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3b151f16.js.map",
+    "static/js/2.b38cb272.chunk.js": "/static/js/2.b38cb272.chunk.js",
+    "static/js/2.b38cb272.chunk.js.map": "/static/js/2.b38cb272.chunk.js.map",
+    "static/css/3.48a93ee6.chunk.css": "/static/css/3.48a93ee6.chunk.css",
+    "static/js/3.123a7c76.chunk.js": "/static/js/3.123a7c76.chunk.js",
+    "static/js/3.123a7c76.chunk.js.map": "/static/js/3.123a7c76.chunk.js.map",
+    "static/css/4.01c87591.chunk.css": "/static/css/4.01c87591.chunk.css",
+    "static/js/4.cb415ee3.chunk.js": "/static/js/4.cb415ee3.chunk.js",
+    "static/js/4.cb415ee3.chunk.js.map": "/static/js/4.cb415ee3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e367f0e857234d9da2e40d3ba2afa348.js": "/precache-manifest.e367f0e857234d9da2e40d3ba2afa348.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.48a93ee6.chunk.css.map": "/static/css/3.48a93ee6.chunk.css.map",
+    "static/css/4.01c87591.chunk.css.map": "/static/css/4.01c87591.chunk.css.map",
+    "static/css/main.5151b896.chunk.css.map": "/static/css/main.5151b896.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/TCS.jpg": "/static/media/TCS.0c1315b0.jpg",
+    "static/media/ashita.jpeg": "/static/media/ashita.74c30c48.jpeg",
+    "static/media/chipotle-logo.png": "/static/media/chipotle-logo.86a5ac32.png",
+    "static/media/deloitte_logo.webp": "/static/media/deloitte_logo.260e3584.webp",
+    "static/media/intro-right.svg": "/static/media/intro-right.8e4b1afa.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/reward_icon.png": "/static/media/reward_icon.a990580a.png",
+    "static/media/sa-logo.png": "/static/media/sa-logo.ac458787.png",
+    "static/media/skills-right.svg": "/static/media/skills-right.c1f9993b.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.de3da806.svg",
+    "static/media/waht-i-do-left.svg": "/static/media/waht-i-do-left.88556646.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b151f16.js",
+    "static/js/2.b38cb272.chunk.js",
+    "static/css/main.5151b896.chunk.css",
+    "static/js/main.b05ca4a9.chunk.js"
+  ]
+}
